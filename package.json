@@ -1,0 +1,21 @@
+{
+  "name": "story-bot",
+  "version": "1.0.0",
+  "description": "A chatbot that generates stories based on user-provided keywords.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [
+    "chatbot",
+    "story",
+    "keywords",
+    "interactive"
+  ],
+  "author": "Peter",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
